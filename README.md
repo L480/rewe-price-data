@@ -6,8 +6,7 @@ This is a daily updating repository containing all items from the German superma
 
 Currently two CSVs are generated per day. One CSV for a REWE market in Schleswig-Holstein (Northern Germany) and one for a market in Bavaria (Southern Germany). A history of all files can be found in the [repository releases](https://github.com/L480/rewe-price-data/releases).
 
-
-## Download
+## 💾 Download
 
 - [Latest Prices (.csv)](https://github.com/L480/rewe-price-data/releases/latest)
 
