@@ -1,16 +1,17 @@
 # rewe-price-data
 
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/L480/rewe-price-data/main)
+![GitHub last commit](https://img.shields.io/github/last-commit/l480/rewe-price-data?label=last%20update)
 
 This is a daily updating repository containing all items from the German supermarket chain REWE with name, brand, EAN, price, grammage, category, discount status, and product image as CSV.
 
-Currently two CSVs are generated per day. One CSV for a REWE market in Schleswig-Holstein (Northern Germany) and one for a market in Bavaria (Southern Germany).
+Currently two CSVs are generated per day. One CSV for a REWE market in Bavaria (Southern Germany) and one for a market in Schleswig-Holstein (Northern Germany).
 
 ## 💾 Downloads
 
-- [Latest prices for Schleswig-Holstein (.csv)](https://github.com/L480/rewe-price-data/raw/main/data/schleswig-holstein.csv)
-- [Latest prices for Bavaria (.csv)](https://github.com/L480/rewe-price-data/raw/main/data/bavaria.csv)
+- [Latest prices for Bavaria (.csv)](https://github.com/L480/rewe-price-data/releases/latest/download/bavaria.csv) ![GitHub Downloads (specific asset, latest release)](https://img.shields.io/github/downloads/l480/rewe-price-data/latest/bavaria.csv)
+- [Latest prices for Schleswig-Holstein (.csv)](https://github.com/L480/rewe-price-data/releases/latest/download/schleswig-holstein.csv) ![GitHub Downloads (specific asset, latest release)](https://img.shields.io/github/downloads/l480/rewe-price-data/latest/schleswig-holstein.csv)
 - [Historical prices](https://github.com/L480/rewe-price-data/releases)
+
 
 ## Sample Data
 
