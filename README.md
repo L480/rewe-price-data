@@ -8,10 +8,9 @@ Currently two CSVs are generated per day. One CSV for a REWE market in Bavaria (
 
 ## 💾 Downloads
 
-- [Latest prices for Bavaria (.csv)](https://github.com/L480/rewe-price-data/releases/latest/download/bavaria.csv) ![GitHub Downloads (specific asset, latest release)](https://img.shields.io/github/downloads/l480/rewe-price-data/latest/bavaria.csv?link=https%3A%2F%2Fgithub.com%2FL480%2Frewe-price-data%2Freleases%2Flatest%2Fdownload%2Fbavaria.csv)
-- [Latest prices for Schleswig-Holstein (.csv)](https://github.com/L480/rewe-price-data/releases/latest/download/schleswig-holstein.csv) ![GitHub Downloads (specific asset, latest release)](https://img.shields.io/github/downloads/l480/rewe-price-data/latest/schleswig-holstein.csv?link=https%3A%2F%2Fgithub.com%2FL480%2Frewe-price-data%2Freleases%2Flatest%2Fdownload%2Fschleswig-holstein.csv)
+- [Latest prices for Bavaria (.csv)](https://github.com/L480/rewe-price-data/releases/latest/download/bavaria.csv) ![GitHub Downloads (specific asset, latest release)](https://img.shields.io/github/downloads/l480/rewe-price-data/latest/bavaria.csv)
+- [Latest prices for Schleswig-Holstein (.csv)](https://github.com/L480/rewe-price-data/releases/latest/download/schleswig-holstein.csv) ![GitHub Downloads (specific asset, latest release)](https://img.shields.io/github/downloads/l480/rewe-price-data/latest/schleswig-holstein.csv)
 - [Historical prices](https://github.com/L480/rewe-price-data/releases)
-
 
 ## Sample Data
 
